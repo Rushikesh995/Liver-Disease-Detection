@@ -1,4 +1,4 @@
-# Liver-Disease-Prediction
+# Liver-Disease-Detection
 
 #### Goal: To develop a POC using Flask, HTML and CSS for predicting whether a person is suffering from Liver Disease or not, implementing Machine Learning algorithm.
 
